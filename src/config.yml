@@ -1,0 +1,36 @@
+# StackerSword
+# Plugin by Numbtus
+# Numbtus#0271 on discord !
+
+# WARNING ! DO NOT MODIFIY !
+config-version: 1
+
+
+# The prefix of the plugin
+prefix: "&8&l[&6&lStacker&e&lSword&8&l]"
+# The number of mobs killed per hit
+mobKillPerHit: 10
+# If the sword is unbreakable or not
+setUnbreakable: true
+# If setUnbreakable is false, the level of the enchant unbreaking
+unbreakingLevel: 10
+# The level of the enchant looting
+lootingLevel: 10
+# The level of the enchant smite
+smiteLevel: 10
+# Hide enchants ?
+hideEnchants: true
+
+
+# The name of the sword
+swordName: "&6&lStacker &e&lSword"
+# The lore of the sword
+swordLore:
+  - "line1"
+  - "line2"
+  - "line3"
+
+# The material of the sword, by default Material.DIAMOND_SWORD
+# Syntax:
+# Material.YOUR_MATERIAL
+swordMaterial: Material.DIAMOND_SWORD

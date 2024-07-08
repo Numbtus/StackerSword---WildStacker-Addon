@@ -1,0 +1,17 @@
+# Lang file to config messages !
+# Plugin by Numbtus
+# Numbtus#0271 on discord !
+
+
+invalidPlayer: "&cInvalid player !"
+
+
+langFileError: "&c&lAn error occured with the lang.yml file !"
+successfullyReload: "&a&lThe plugin has been reloaded"
+noPermission: "&cNo permission !"
+
+# %playerSend% = the player to whom you gave the sword
+successfullyGiveMessage: "&7You have successfully give a StackerSword to %playerSend%"
+
+
+receiveSwordMessage: "&7You have received a StackerSword"
